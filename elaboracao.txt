@@ -1,0 +1,71 @@
+1.1 - Cifra_Cesar_Cifrar:
+
+Ex 1.01.1: ===
+Entrada:
+1 - Good Dia
+2 - Bom
+Saida:
+1 - Idbf Svc
+
+Ex 1.01.2: ===
+Entrada:
+1 - Bom
+2 - Good Dia
+Saida:
+1 - Idb
+
+Ex 1.02.1: ===
+Entrada:
+1 - Rakudai Kishi no Cavalyr
+2 - Seirei Tsukai no Blade Dance
+
+Saida:
+1 - Kftmijc Dddir bd Emweqcs
+
+Ex 1.02.2: ===
+Entrada:
+1 - Seirei Tsukai no Blade Dance
+2 - Rakudai Kishi no Cavalyr
+
+Saida:
+1 - Kftmij Cdddir bd Emweq Csfdp
+
+Ex 1.03.1: ===
+Entrada:
+1 - Voce ja procurou hotel na internet hoje
+2 - SOX
+
+Saida:
+1 - Odax yy igmvjphj fhice cy bcrxglxi fhyc
+
+Ex 1.03.2: ===
+Entrada:
+1 - SOX
+2 - Voce ja procurou hotel na internet hoje
+
+Saida:
+1 - ODA
+
+1.2 - Cifra_Cesar_Descifrar:
+
+Ex 1.01.1: ===
+Entrada:
+1 - Idbf Svc
+2 - Bom
+Saida:
+1 - Good Dia
+
+Ex 1.01.2: ===
+Entrada:
+1 - Idb
+2 - Good Dia
+Saida:
+1 - Bom
+
+Ex 1.02.1: ===
+Entrada:
+1 - Kftmijc Dddir bd Emweqcs
+2 - Seirei Tsukai no Blade Dance
+
+Saida:
+1 - Rakudai Kishi no Cavalyr
